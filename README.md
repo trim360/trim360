@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Trim360 Banner](banner.png)
+![Trim360 Banner](banner.png?v=2)
 
 ### Hey, I'm Trim! :3
 
